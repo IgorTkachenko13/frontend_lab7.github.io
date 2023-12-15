@@ -1,0 +1,31 @@
+.goodsCart {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.goodItem {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.goodImage {
+    size: 100px;
+    max-height: 100px;
+    height: auto;
+}
+
+.goodName {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.goodPrice {
+    font-size: 1em;
+    color: #666;
+}
+.im {
+    width: 400px;
+}
